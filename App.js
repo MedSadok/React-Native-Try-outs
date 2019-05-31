@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { StackNavigator, createAppContainer } from 'react-navigation';
+import { createStackNavigator, createAppContainer } from 'react-navigation';
 
 import Profile from './src/profile';
 import Login from './src/login';
