@@ -117,10 +117,9 @@ const styles= StyleSheet.create ({
     fontWeight:'bold'
   },
   textInput:{
-    BorderColor:'#000',
+    BorderColor:'#000000',
   },
   error:{
-    backgroundColor: '#fff',
     BorderColor:'#FF0000'
   }
 });
